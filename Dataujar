@@ -34,6 +34,12 @@
         "key": "smart15",
         "expirydate": "13-03-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "909b96fda123896f",
+        "key": "smart5",
+        "expirydate": "13-03-2026",
+        "Allowoffline": false
     }
 ]
 ]
