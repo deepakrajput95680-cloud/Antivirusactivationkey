@@ -59,5 +59,11 @@
         "expirydate": "13-03-2026",
         "Allowoffline": false
     }
+{
+        "device_id": "6ae056b51f5a894c",
+        "key": "smart8",
+        "expirydate": "13-03-2026",
+        "Allowoffline": false
+    }
 ]
 ]
