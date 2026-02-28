@@ -53,5 +53,11 @@
         "expirydate": "13-03-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "ad03a11d66788371",
+        "key": "smart9",
+        "expirydate": "13-03-2026",
+        "Allowoffline": false
+    },
 ]
 ]
