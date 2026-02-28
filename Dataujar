@@ -16,5 +16,11 @@
         "key": "deepak123",
         "expirydate": "01-03-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "80e9f730dc0dff28",
+        "key": "smart1",
+        "expirydate": "16-03-2026",
+        "Allowoffline": false
     }
 ]
