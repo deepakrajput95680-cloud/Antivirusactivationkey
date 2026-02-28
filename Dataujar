@@ -64,6 +64,13 @@
         "key": "smart8",
         "expirydate": "13-03-2026",
         "Allowoffline": false
+    },
+}
+{
+        "device_id": "dd02f8f5bfd572f9",
+        "key": "deepak1",
+        "expirydate": "13-03-2026",
+        "Allowoffline": false
     }
 ]
 ]
